@@ -27,3 +27,6 @@ backend/.mvn/***
 
 backend/.mvn.cmd
 
+frontend/build
+frontend/node_modules
+
